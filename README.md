@@ -1,2 +1,2 @@
 # CloudPlanning
-Projeto final integrado realizado no SENAI-SP, sistema responsável em um ambiente de cadastramento de clientes e sua infraestrutura aws. 
+Projeto final integrado realizado no SENAI-SP, consiste em uma aplicação web onde o usuário é capaz de subir em sua AWS componentes como EC2 e VPC e fazer esboços de infraestruturas em nuvem por meio de diagramas
