@@ -1,4 +1,4 @@
-# Nome do Projeto
+# CloudPlanning
 
 Projeto Final - Aplicação Web de diagrama de Infraestruturas em Nuvem
 
@@ -33,7 +33,7 @@ Nesse contexto, desenvolvemos essa aplicação web para atender às necessidades
 
 ## Aplicação
 
-![Screenshot 1](screenshots/screenshot1.png)
+![Video Plataforma](https://github.com/Lucas-M3dina/CloudPlanning-TCC-SENAI/blob/main/Plataforma.mp4)
 
 
 
