@@ -33,7 +33,7 @@ Nesse contexto, desenvolvemos essa aplicação web para atender às necessidades
 
 ## Aplicação
 
-![Video Plataforma](https://github.com/Lucas-M3dina/CloudPlanning-TCC-SENAI/blob/main/Plataforma.mp4)
+![Video Plataforma](https://vimeo.com/827379447?share=copy)
 
 
 
