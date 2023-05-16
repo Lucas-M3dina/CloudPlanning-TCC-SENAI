@@ -33,7 +33,7 @@ Nesse contexto, desenvolvemos essa aplicação web para atender às necessidades
 
 ## Aplicação
 
-![Video Plataforma](https://vimeo.com/827379447?share=copy)
+
 
 
 
