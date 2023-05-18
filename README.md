@@ -34,6 +34,8 @@ Nesse contexto, desenvolvemos essa aplicação web para atender às necessidades
 ## Aplicação
 
 
+https://github.com/Lucas-M3dina/CloudPlanning-TCC-SENAI/assets/82384642/a5ff4447-cc06-4cbd-b931-8f3addff4931
+
 
 
 
